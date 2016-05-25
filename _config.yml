@@ -1,0 +1,28 @@
+name: John Milly
+favicon: null
+layout_spectrum: 0.5713567505590618
+typography_spectrum: 0.6980317903216928
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.612211327534169
+  lightness: 0.119744234951213
+  saturation: 0.0034319895785301924
+  rhythmicContrast: 0.6589352968148887
+purpose: []
